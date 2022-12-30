@@ -21,3 +21,9 @@ This star rating component is intended for use in forms. It contains the area wi
 Or
 
 `yarn add react-bootstrap-icons`
+
+<br/>
+
+**Sass v1.56.1**
+
+`npm i sass`
